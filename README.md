@@ -1,0 +1,1 @@
+Developed to ease the SACAA paperwork requirements for flying RPAS for commercial gain. Give the script the path to the latest ATNS airspace data, the location of the LZ and the flyaway radius of the drone and it will output all of the airspaces that intersect that radius as well as their contact frequencies.
